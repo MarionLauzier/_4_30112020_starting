@@ -14,9 +14,9 @@ Mettre en place ces 10 recommandations et démontrer l'impact de ces recommandat
 
 **Ce repository permet de mettre en ligne et d'analyser le site dans sa version initiale.**
 
-Le site optimisé est stocké sur cet autre repository: [https://github.com/MarionLauzier/_4_30112020_optimised] et est accessible à l'adresse : [https://marionlauzier.github.io/_4_30112020_optimised/]
+Le site optimisé est stocké sur cet autre repository: https://github.com/MarionLauzier/_4_30112020_optimised et est accessible à l'adresse : https://marionlauzier.github.io/_4_30112020_optimised/
 
 <p align="center"> 
-    Résultat de l'audit avec l'outil Lighthouse
-    <img src="readme/lighthouse.png"/> 
+    Résultat de l'audit avec l'outil Lighthouse:<br/>
+    <img src="readme/Lighthouse.png"/> 
 </p>
